@@ -29,7 +29,7 @@ function App() {
       </div>
       <div className="buttons">
         <a href="twitter.com/intent/tweet" id='tweet-quote' target='blank'>
-          <FaTwitter size='30'/>
+          <FaTwitter size='20'/>
         </a>
         <button id="new-quote" onClick={changeQuote}>New Quote</button>
       </div>
